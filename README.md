@@ -39,6 +39,8 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 
 ## Installation Requirements
 
+beside the dependencies in requirements.txt , another dependency needed to be installed
+
 > python -m spacy download en_core_web_lg
 
 
