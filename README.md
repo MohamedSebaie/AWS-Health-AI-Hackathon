@@ -7,7 +7,7 @@
 
 Welcome, We are egabi Solutions' AI team, we have worked on many different AI Projects like NLP, Speech recognition, and Computer Vision domains
 
-## What inspired you
+## What inspired us
 
 * Our inspiration was based on the motto “Do not google your symptoms”. In fact, most people in Egypt tend to diagnose themselves or turn to google their symptoms without seeking professional advice because sometimes it may be expensive.
 
