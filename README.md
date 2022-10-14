@@ -58,7 +58,7 @@ beside the dependencies in requirements.txt , another dependency needed to be in
 
 ## Team Members
 
-* Muhammad Ayman : [Linkedin](https://www.linkedin.com/in/m-ayman97/)  [Kaggle](https://www.kaggle.com/muhammadayman)
+* Muhammad Ayman : [Linkedin](https://www.linkedin.com/in/m-ayman97/) ,  [Kaggle](https://www.kaggle.com/muhammadayman)
 
 * Mohamed Sebaie
 
