@@ -46,4 +46,6 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 
 * Mohamed Sebaie
 
+* Mohamed Abu El Hamayed
+
 
