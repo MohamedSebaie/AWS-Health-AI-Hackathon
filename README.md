@@ -36,10 +36,12 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 * Only the medical symptoms with similarity above a specific threshold are taken into consideration.
 * The classification model takes the chosen features as input and predicts the best diagnosis.
 
+## Installation Requirements
+
+> python -m spacy download en_core_web_lg
+
 ## Team Members
 
 Muhammad Ayman 
-
-Mohamed Sebaie
 
 
