@@ -10,7 +10,7 @@
 
 ## Step By Step
 
-![My Image](https://raw.githubusercontent.com/muhammadayman97/AWS-Health-AI-Hackathon/main/images/pipeline.jpg)
+![My Image]([https://raw.githubusercontent.com/muhammadayman97/AWS-Health-AI-Hackathon/main/images/pipeline.jpg](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/pipeline.jpg))
 
 * Classification model was trained using a Disease Prediction dataset.
 * Amazon Medical Comprehend is used to extract patient’s medical information from medical text.
