@@ -9,19 +9,16 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 
 ## What inspired us
 
-* Our inspiration was based on the motto “Do not google your symptoms”. In fact, most people in Egypt tend to diagnose themselves or turn to google their symptoms without seeking professional advice because sometimes it may be expensive.
+* Our inspiration was based on the motto “Do not google your symptoms”. It’s a world-wide problem that people google their symptoms searching for quick cheap diagnosis which may lead to underestimating / overestimating their medical conditions.
 
-* Almost all of these people end up underestimating or overestimating their medical condition but these kinds of results could make them avoid the doctor because they don’t want to hear bad news or they’ll worry so much that it leads to other harmful consequences.
+* But these kinds of results could make them avoid the doctor because they don’t want to hear bad news or they’ll worry so much that it leads to other harmful consequences.
 
-* We wanted to help these people by using Amazon Medical Comprehend to build a more reliable model that is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
+* We wanted to help these people by using Amazon Medical Comprehend to build a reliable model that is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
-* The problem statement is Helping the patients to have some sort of understanding of what their medical symptoms could mean, and providing them with trusted information about their diagnosis.
 
 ## Solution
 
 * Building an AI Model that can help the patients to have some sort of understanding of what their medical symptoms could mean, and provide them with an initial diagnosis for their symptoms, that would be more reliable than googling them.
-
-* It is not a substitute for professional medical advice, diagnosis, or treatment.
 
 * The patient will write a text explaining his/her symptoms and the model will diagnose the patient’s medical condition.
 
@@ -29,6 +26,7 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 ## Pipeline
 
 ![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/pipeline.jpg)
+
 
 ## Step By Step
 
