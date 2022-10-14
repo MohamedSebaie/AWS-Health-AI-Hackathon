@@ -5,7 +5,7 @@
     <img width="200" src="https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/egabi.png" alt="Material Bread logo">
 </p>
 
-Welcome, We are egabi Solutions' AI team, we have worked on many different AI Projects like NLP, Speech recognition, and Computer Vision domains
+Welcome, We are egabi Solutions AI team, we have worked on many different AI Projects like NLP, Speech recognition, and Computer Vision domains
 
 ## What inspired us
 
