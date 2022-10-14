@@ -39,7 +39,3 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 * The classification model takes the chosen features as input and predicts the best diagnosis.
 
 
-## Future Extension
-
-Our solution can be extended by integrating it with chatbots that can ask the patients questions to give a more reliable result. Also, hospitals in Egypt have doctors that one of their tasks is to do an initial diagnosis on patients when they arrive to direct them to the right clinic, our solution can be extended to replace those doctors in this particular task.
-
