@@ -38,6 +38,12 @@ Welcome, We are egabi Solutions AI team, we have worked on many different AI Pro
 * Only the medical symptoms with similarity above a specific threshold are taken into consideration.
 * The classification model takes the chosen features as input and predicts the best diagnosis.
 
+## Output Samples
+
+![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/case4.jpg)
+
+![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/case7.jpg)
+
 
 ## Installation Requirements
 
