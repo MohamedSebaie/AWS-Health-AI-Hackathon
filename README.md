@@ -2,17 +2,17 @@
 
 ## About Us
 
-* Welcome, We are egabi Solutions' AI team, we have worked on many different AI Projects like NLP, Speech recognition, and Computer Vision domains
+Welcome, We are egabi Solutions' AI team, we have worked on many different AI Projects like NLP, Speech recognition, and Computer Vision domains
 
 ## What inspired you
 
-Our inspiration was based on the motto “Do not google your symptoms”. In fact, most people in Egypt tend to diagnose themselves or turn to google their symptoms without seeking professional advice because sometimes it may be expensive.
+* Our inspiration was based on the motto “Do not google your symptoms”. In fact, most people in Egypt tend to diagnose themselves or turn to google their symptoms without seeking professional advice because sometimes it may be expensive.
 
-Almost all of these people end up underestimating or overestimating their medical condition but these kinds of results could make them avoid the doctor because they don’t want to hear bad news or they’ll worry so much that it leads to other harmful consequences.
+* Almost all of these people end up underestimating or overestimating their medical condition but these kinds of results could make them avoid the doctor because they don’t want to hear bad news or they’ll worry so much that it leads to other harmful consequences.
 
-We wanted to help these people by using Amazon Medical Comprehend to build a more reliable model that is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
+* We wanted to help these people by using Amazon Medical Comprehend to build a more reliable model that is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
-The problem statement is Helping the patients to have some sort of understanding of what their medical symptoms could mean, and providing them with trusted information about their diagnosis.
+* The problem statement is Helping the patients to have some sort of understanding of what their medical symptoms could mean, and providing them with trusted information about their diagnosis.
 
 ## Pipeline
 
