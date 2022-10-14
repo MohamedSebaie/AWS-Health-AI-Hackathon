@@ -58,10 +58,16 @@ beside the dependencies in requirements.txt , another dependency needed to be in
 
 ## Team Members
 
-* Muhammad Ayman 
+* Muhammad Ayman : [Linkedin](https://www.linkedin.com/in/m-ayman97/)
 
 * Mohamed Sebaie
 
 * Mohamed Abu El Hamayed
 
 * Ahmed Mohsen Elgarhy 
+
+## Links
+
+devpost : https://devpost.com/software/disease-prediction-km5ics#updates
+
+Youtube Promotion : https://www.youtube.com/watch?v=C5VXlRN1RIc&ab_channel=MohamedSebaie
