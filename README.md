@@ -40,9 +40,9 @@ Welcome, We are egabi Solutions AI team, we have worked on many different AI Pro
 
 ## Output Samples
 
-![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/case4.jpg)
+![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/case4.png)
 
-![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/case7.jpg)
+![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/case7.png)
 
 
 ## Installation Requirements
