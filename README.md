@@ -13,12 +13,14 @@ Welcome, We are egabi Solutions AI team, we have worked on many different AI Pro
 
 * But these kinds of results could make them avoid the doctor because they don’t want to hear bad news or they’ll worry so much that it leads to other harmful consequences.
 
-* We wanted to help these people by using Amazon Medical Comprehend to build a reliable model that is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
+* We wanted to help these people by using Amazon Medical Comprehend to build a reliable model that is intended for informational purposes only.
 
 
 ## Solution
 
 * Building an AI Model that can help the patients to have some sort of understanding of what their medical symptoms could mean, and provide them with an initial diagnosis for their symptoms, that would be more reliable than googling them.
+
+* It is not a substitute for professional medical advice, diagnosis, or treatment.
 
 * The patient will write a text explaining his/her symptoms and the model will diagnose the patient’s medical condition.
 
