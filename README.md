@@ -1,6 +1,7 @@
 # AWS-Health-AI-Hackathon
 
 ## About Us
+![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/egabi.png)
 
 Welcome, We are egabi Solutions' AI team, we have worked on many different AI Projects like NLP, Speech recognition, and Computer Vision domains
 
