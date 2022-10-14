@@ -17,6 +17,15 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 
 * The problem statement is Helping the patients to have some sort of understanding of what their medical symptoms could mean, and providing them with trusted information about their diagnosis.
 
+## Solution
+
+* Building an AI Model that can help the patients to have some sort of understanding of what their medical symptoms could mean, and provide them with an initial diagnosis for their symptoms, that would be more reliable than googling them.
+
+* It is not a substitute for professional medical advice, diagnosis, or treatment.
+
+* The patient will write a text explaining his/her symptoms and the model will diagnose the patient’s medical condition.
+
+
 ## Pipeline
 
 ![My Image](https://github.com/muhammadayman97/AWS-Health-AI-Hackathon/blob/main/images/pipeline.jpg)
