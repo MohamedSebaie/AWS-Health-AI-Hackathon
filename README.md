@@ -60,7 +60,7 @@ beside the dependencies in requirements.txt , another dependency needed to be in
 
 * Muhammad Ayman : [Linkedin](https://www.linkedin.com/in/m-ayman97/) ,  [Kaggle](https://www.kaggle.com/muhammadayman)
 
-* Mohamed Sebaie
+* Mohamed Sebaie : [Linkedin](https://www.linkedin.com/in/mohamedsebaie/) ,  [Kaggle](https://www.kaggle.com/mohamedsebaie)
 
 * Mohamed Abu El Hamayed
 
