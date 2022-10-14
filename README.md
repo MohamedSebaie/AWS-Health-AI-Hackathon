@@ -42,6 +42,7 @@ Welcome, We are egabi Solutions' AI team, we have worked on many different AI Pr
 
 ## Team Members
 
-Muhammad Ayman 
+*Muhammad Ayman 
+*Mohamed Sebaie
 
 
